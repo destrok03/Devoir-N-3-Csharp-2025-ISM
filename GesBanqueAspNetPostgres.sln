@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GesBanqueAspNet", "GesBanqueAspNet.csproj", "{600AE987-AB03-FB66-6355-6B04FB2066C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{600AE987-AB03-FB66-6355-6B04FB2066C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{600AE987-AB03-FB66-6355-6B04FB2066C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{600AE987-AB03-FB66-6355-6B04FB2066C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{600AE987-AB03-FB66-6355-6B04FB2066C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {799F24E5-50FB-407E-98AC-F6C62E6235CC}
+	EndGlobalSection
+EndGlobal
